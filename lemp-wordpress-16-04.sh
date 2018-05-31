@@ -18,7 +18,7 @@ init() {
     web_address="localhost"
     # for making an installation to www.mywebsite.com/myblog/
     #sub_folder="myblog"
-    #web_address="www.mywebsite.com"
+    web_address="www.wearevr.in"
 
     multi_site=0
     # for multi site installation uncomment this line
